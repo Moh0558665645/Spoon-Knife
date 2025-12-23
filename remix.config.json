@@ -27,5 +27,12 @@
         }
       }
     }
+  },
+  "script-runner": {
+    "defaultConfig": "zksyncv6",
+    "customConfig": {
+      "baseConfiguration": "default",
+      "dependencies": []
+    }
   }
 }
